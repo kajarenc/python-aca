@@ -20,7 +20,7 @@ class Stack:
   def is_empty(self):
     return not bool(self.arr)
     
-
+# This is Sparta !!!
 def par_is_valid(inp):
   valid = True
   st = Stack()
